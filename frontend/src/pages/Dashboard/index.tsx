@@ -28,7 +28,8 @@ const Dashboard = () => {
                 <h2 className="text-primary">Todas Vendas</h2>
             </div>
 
-            <DataTable/>
+            <DataTable/> 
+            
             </div>
         </div>
         <footer/>
